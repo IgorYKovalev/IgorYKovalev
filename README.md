@@ -44,6 +44,4 @@ Telegram - [@Kovalev_ig](https://telegram.me/Kovalev_ig)
 
 ---
 
-[Вверх](#my-stack-🔧)
-
 ![](https://komarev.com/ghpvc/?username=IgorYKovalev)
