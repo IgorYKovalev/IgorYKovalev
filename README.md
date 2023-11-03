@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm92Z3V5bndha2dyOTI0ZTFmbzFvY2Q3eXF2YzI0aHl0OGR6aWR5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cmCEsJZHYBPels360q/giphy.gif" width="150"/>
 </div>
 
-<h1 align="center" style="color:#0f16fe">Hello to all programming lovers, I am Igor,<br>a Python developer! 👋</h1>
+<h1 align="center">Hello to all programming lovers, I am Igor,<br>a Python developer! 👋</h1>
 
 ### My stack 🔧
 
