@@ -9,6 +9,7 @@
 ![Django](https://img.shields.io/badge/-Django-f6bb0b?style=for-the-badge&logo=django&logoColor=113227)
 ![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-f6bb0b?style=for-the-badge&logo=Django-REST-Framework&logoColor=113227)
 ![REST API](https://img.shields.io/badge/-REST%20API-f6bb0b?style=for-the-badge&logo=REST-API&logoColor=113227)
+
 ![Docker](https://img.shields.io/badge/-Docker-f6bb0b?style=for-the-badge&logo=Docker&logoColor=1c63ed)
 ![HTML](https://img.shields.io/badge/-HTML-f6bb0b?style=for-the-badge&logo=HTML&logoColor=e44d27)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-f6bb0b?style=for-the-badge&logo=Bootstrap&logoColor=7409f7)
