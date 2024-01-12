@@ -7,8 +7,8 @@
 ### My stack 🔧
 ![Python](https://img.shields.io/badge/-Python-29587e?style=for-the-badge&logo=python&logoColor=f6bb0b)
 ![Django](https://img.shields.io/badge/-Django-113227?style=for-the-badge&logo=django&logoColor=ffffff)
-![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-f6bb0b?style=for-the-badge&logo=Django-REST-Framework&logoColor=113227)
-![REST API](https://img.shields.io/badge/-REST%20API-f6bb0b?style=for-the-badge&logo=REST-API&logoColor=113227)
+![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-2c2c2c?style=for-the-badge&logo=Django-REST-Framework&logoColor=a30100)
+![REST API](https://img.shields.io/badge/-REST%20API-ffffff?style=for-the-badge&logo=REST-API&logoColor=8cc63f)
 
 ![Docker](https://img.shields.io/badge/-Docker-1c63ed?style=for-the-badge&logo=Docker&logoColor=ffffff)
 ![HTML](https://img.shields.io/badge/-HTML-e44d27?style=for-the-badge&logo=HTML&logoColor=e44d27)
