@@ -5,19 +5,16 @@
 <h1 align="center">Hello to all programming lovers, I am Igor,<br>a Python developer! 👋</h1>
 
 ### My stack 🔧
-![Python](https://img.shields.io/badge/:badgeContent)
-{ "schemaVersion": 1, "label": "hello", "message": "sweet world", "color": "orange" }
-
-
-<img alt="Python" 
-style="max-width: 100%;"><img alt="Django" 
-style="max-width: 100%;"><img alt="Django REST Framework"                                                                                                           style="max-width: 100%;"><img alt="REST API" 
-style="max-width: 100%;"><img alt="Git"
-style="max-width: 100%;"><img alt="GitHub" 
-style="max-width: 100%;"><img alt="Docker" 
-style="max-width: 100%;"><img alt="HTML" 
-style="max-width: 100%;"><img alt="Bootstrap" 
-style="max-width: 100%;"><img alt="Postman" 
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
+![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=097CDB)
+![Django REST Framework](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
+![REST API](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
+![Docker](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![HTML](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![Bootstrap](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![Git](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=gitHub&logoColor=E5D3FF)
+![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=6296CC)
 
 ---
 
