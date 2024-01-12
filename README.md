@@ -13,7 +13,7 @@
 
 ![Docker](https://img.shields.io/badge/-Docker-1c63ed?style=for-the-badge&logo=Docker&logoColor=ffffff)
 ![HTML](https://img.shields.io/badge/-HTML-e44d27?style=for-the-badge&logo=HTML&logoColor=e44d27)
-![CSS](https://img.shields.io/badge/-CSS-ffffff?style=for-the-badge&logo=REST-API&logoColor=1f62ae)
+![CSS](https://img.shields.io/badge/-CSS-ffffff?style=for-the-badge&logo=CSS&logoColor=1f62ae)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7409f7?style=for-the-badge&logo=Bootstrap&logoColor=f0e6fc)
 ![Git](https://img.shields.io/badge/-Git-d84422?style=for-the-badge&logo=Git&logoColor=feffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-E5D3FF?style=for-the-badge&logo=GitHub&logoColor=221e1f)
