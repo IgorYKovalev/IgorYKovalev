@@ -5,7 +5,7 @@
 <h1 align="center">Hello to all programming lovers, I am Igor,<br>a Python developer! 👋</h1>
 
 ### My stack 🔧
-![Python](https://img.shields.io/badge/-Python-f6bb0b?style=for-the-badge&logo=python&logoColor=47C5FB)
+![Python](https://img.shields.io/badge/-Python-f6bb0b?style=for-the-badge&logo=python&logoColor=29587e)
 ![Django](https://img.shields.io/badge/-Django-f6bb0b?style=for-the-badge&logo=django&logoColor=113227)
 ![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-f6bb0b?style=for-the-badge&logo=Django-REST-Framework&logoColor=113227)
 ![REST API](https://img.shields.io/badge/-REST%20API-f6bb0b?style=for-the-badge&logo=REST-API&logoColor=113227)
