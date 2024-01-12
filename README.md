@@ -14,8 +14,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-e44d27?style=for-the-badge&logo=HTML&logoColor=e44d27)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7409f7?style=for-the-badge&logo=Bootstrap&logoColor=f0e6fc)
 ![Git](https://img.shields.io/badge/-Git-d84422?style=for-the-badge&logo=Git&logoColor=feffff)
-![GitHub](https://img.shields.io/badge/-GitHub-E5D3FF?style=for-the-badge&logo=GitHub&logoColor=E5D3FF)
-![Postman](https://img.shields.io/badge/-Postman-fe6c37?style=for-the-badge&logo=Postman&logoColor=fe6c37)
+![GitHub](https://img.shields.io/badge/-GitHub-E5D3FF?style=for-the-badge&logo=GitHub&logoColor=221e1f)
+![Postman](https://img.shields.io/badge/-Postman-fe6c37?style=for-the-badge&logo=Postman&logoColor=ffffff)
 
 ---
 
