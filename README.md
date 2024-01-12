@@ -6,14 +6,14 @@
 
 ### My stack 🔧
 ![Python](https://img.shields.io/badge/-Python-29587e?style=for-the-badge&logo=python&logoColor=f6bb0b)
-![Django](https://img.shields.io/badge/-Django-113227?style=for-the-badge&logo=django&logoColor=f6bb0b)
+![Django](https://img.shields.io/badge/-Django-113227?style=for-the-badge&logo=django&logoColor=ffffff)
 ![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-f6bb0b?style=for-the-badge&logo=Django-REST-Framework&logoColor=113227)
 ![REST API](https://img.shields.io/badge/-REST%20API-f6bb0b?style=for-the-badge&logo=REST-API&logoColor=113227)
 
-![Docker](https://img.shields.io/badge/-Docker-1c63ed?style=for-the-badge&logo=Docker&logoColor=f6bb0b)
+![Docker](https://img.shields.io/badge/-Docker-1c63ed?style=for-the-badge&logo=Docker&logoColor=ffffff)
 ![HTML](https://img.shields.io/badge/-HTML-e44d27?style=for-the-badge&logo=HTML&logoColor=e44d27)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7409f7?style=for-the-badge&logo=Bootstrap&logoColor=7409f7)
-![Git](https://img.shields.io/badge/-Git-d84422?style=for-the-badge&logo=Git&logoColor=d84422)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7409f7?style=for-the-badge&logo=Bootstrap&logoColor=f0e6fc)
+![Git](https://img.shields.io/badge/-Git-d84422?style=for-the-badge&logo=Git&logoColor=feffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-E5D3FF?style=for-the-badge&logo=GitHub&logoColor=E5D3FF)
 ![Postman](https://img.shields.io/badge/-Postman-fe6c37?style=for-the-badge&logo=Postman&logoColor=fe6c37)
 
