@@ -5,16 +5,16 @@
 <h1 align="center">Hello to all programming lovers, I am Igor,<br>a Python developer! 👋</h1>
 
 ### My stack 🔧
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
-![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=097CDB)
+![Python](https://img.shields.io/badge/-Python-f6bb0b?style=for-the-badge&logo=python&logoColor=47C5FB)
+![Django](https://img.shields.io/badge/-Django-f6bb0b?style=for-the-badge&logo=django&logoColor=097CDB)
 ![Django REST Framework](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
 ![REST API](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
-![Docker](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![HTML](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![Bootstrap](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![Git](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=gitHub&logoColor=E5D3FF)
-![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=6296CC)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=6296CC)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML&logoColor=6296CC)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=6296CC)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=E9D54D)
+![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=E5D3FF)
+![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=6296CC)
 
 ---
 
