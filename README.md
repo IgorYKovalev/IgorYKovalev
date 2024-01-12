@@ -9,13 +9,14 @@
 ![Django](https://img.shields.io/badge/-Django-113227?style=for-the-badge&logo=django&logoColor=ffffff)
 ![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-2c2c2c?style=for-the-badge&logo=Django-REST-Framework&logoColor=a30100)
 ![REST API](https://img.shields.io/badge/-REST%20API-ffffff?style=for-the-badge&logo=REST-API&logoColor=8cc63f)
+![Postman](https://img.shields.io/badge/-Postman-fe6c37?style=for-the-badge&logo=Postman&logoColor=ffffff)
 
 ![Docker](https://img.shields.io/badge/-Docker-1c63ed?style=for-the-badge&logo=Docker&logoColor=ffffff)
 ![HTML](https://img.shields.io/badge/-HTML-e44d27?style=for-the-badge&logo=HTML&logoColor=e44d27)
+![CSS](https://img.shields.io/badge/-CSS-ffffff?style=for-the-badge&logo=REST-API&logoColor=1f62ae)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7409f7?style=for-the-badge&logo=Bootstrap&logoColor=f0e6fc)
 ![Git](https://img.shields.io/badge/-Git-d84422?style=for-the-badge&logo=Git&logoColor=feffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-E5D3FF?style=for-the-badge&logo=GitHub&logoColor=221e1f)
-![Postman](https://img.shields.io/badge/-Postman-fe6c37?style=for-the-badge&logo=Postman&logoColor=ffffff)
 
 ---
 
