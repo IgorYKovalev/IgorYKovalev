@@ -38,6 +38,8 @@ Training = {
 
 ---
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=kovalev-i)](https://github.com/kovalev-i/github-readme)
+
 ### My сontacts 📨
 
 Телефон: +7 (920)-736-01-00
