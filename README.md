@@ -38,7 +38,7 @@ Training = {
 
 ---
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=kovalev-i)](https://github.com/kovalev-i/github-readme)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=kovalev-i&theme=dark)](https://github.com/kovalev-i/github-readme)
 
 ### My сontacts 📨
 
@@ -53,6 +53,8 @@ Telegram - [@Kovalev_ig](https://telegram.me/Kovalev_ig)
 Я на [Хабр](https://career.habr.com/kovalevigor123)
 
 Я на [Сodewars](https://www.codewars.com/users/Ковалев-Игорь)
+
+Я на [LeetCode](https://leetcode.com/kovalev-i/)
 
 ---
 
