@@ -37,7 +37,7 @@ Training = {
 
 ![codewars](https://www.codewars.com/users/%D0%9A%D0%BE%D0%B2%D0%B0%D0%BB%D0%B5%D0%B2-%D0%98%D0%B3%D0%BE%D1%80%D1%8C/badges/large)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=kovalev-i&theme=dark)](https://github.com/kovalev-i/github-readme)
+![LeetCode Stats](https://leetcode.card.workers.dev/kovalev-i?theme=dark&font=baloo&extension=null)
 
 ---
 
