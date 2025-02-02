@@ -10,18 +10,26 @@
 ![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-7c000d?style=for-the-badge&logo=Django-REST-Framework&logoColor=7c000d)
 ![REST API](https://img.shields.io/badge/-REST%20API-8cc63f?style=for-the-badge&logo=REST-API&logoColor=8cc63f)
 ![Postman](https://img.shields.io/badge/-Postman-fe6c37?style=for-the-badge&logo=Postman&logoColor=ffffff)
+![Swagger Validator](https://img.shields.io/badge/-swagger-555555?style=for-the-badge&logo=swagger)
 
 ![Docker](https://img.shields.io/badge/-Docker-1c63ed?style=for-the-badge&logo=Docker&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7409f7?style=for-the-badge&logo=Bootstrap&logoColor=f0e6fc)
 ![Git](https://img.shields.io/badge/-Git-d84422?style=for-the-badge&logo=Git&logoColor=feffff)
-![GitHub](https://img.shields.io/badge/-GitHub-E5D3FF?style=for-the-badge&logo=GitHub&logoColor=221e1f)
+![GitHub](https://img.shields.io/badge/-GitHub-ffffff?style=for-the-badge&logo=GitHub&logoColor=221e1f)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-3e7096?style=for-the-badge&logo=sql&logoColor=3e7096)
 
 ---
 
-<!-- ## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorYKovalev&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorYKovalev&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![codewars](https://www.codewars.com/users/%D0%9A%D0%BE%D0%B2%D0%B0%D0%BB%D0%B5%D0%B2-%D0%98%D0%B3%D0%BE%D1%80%D1%8C/badges/large)
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/kovalev-i)](https://leetcode.com/u/kovalev-i) 
+
+---
 
 ### Completed courses 📚
 
@@ -34,11 +42,6 @@ Training = {
   "tools": ["SQL", "Git", "Docker"],
 }
 ```
-
-![codewars](https://www.codewars.com/users/%D0%9A%D0%BE%D0%B2%D0%B0%D0%BB%D0%B5%D0%B2-%D0%98%D0%B3%D0%BE%D1%80%D1%8C/badges/large)
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/kovalev-i)](https://leetcode.com/u/kovalev-i) 
-
 ---
 
 ### My сontacts 📨
